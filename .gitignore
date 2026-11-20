@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+source/metro-202312.csv
+source/youbike-202312.csv
+.DS_Store

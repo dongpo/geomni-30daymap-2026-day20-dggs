@@ -1,0 +1,11 @@
+{
+"retrieved":"2026-11-20",
+"bike":{"catalog":"https://data.gov.tw/dataset/169174","url":"https://data.taipei/api/dataset/d51e8336-fceb-4275-a81a-2a246f4fca1b/resource/8ddb45ba-a0f5-41d6-85a0-1691096fdcf8/download","period":"2023-12","scope":"臺北市公車與捷運轉乘YouBike租借資料；不是全部租借紀錄","license":"政府資料開放授權條款第1版"},
+"metro":{"catalog":"https://data.taipei/dataset/detail?id=63f31c7e-7fc3-418b-bd82-b95158755b4d","url_file":"metro-url.txt","period_filter":"2023-12-01 <= 日期 < 2024-01-01","license":"政府資料開放授權條款第1版","hour_definition":"出站小時；依保存官方統計分析表4定義，月CSV未內嵌定義"},
+"station_geometry":{"bike":"2026-11-20臺北市官方快照；名稱完全一致才配對，沒有確認歷史移站","metro":"2026-11-03保存TDX GTFS匯出；臺北市範圍代表點，非出入口","historic_geometry_limit":"2023時間統計與2026站位不同期，可能移站或改名，並非2023測繪位置"},
+"candidate_rejected":{"live_youbike":"僅即時快照，無法憑一筆資料建立全天供給變化","youbike_OD_202606":"官方起訖站統計僅週間週末合計，沒有小時欄；不虛構逐時分解"},
+"dggrs":"https://www.opengis.net/def/dggrs/OGC/1.0/ISEA3H",
+"standard_core":"https://docs.ogc.org/as/20-040r3/20-040r3.html",
+"standard_api":"https://docs.ogc.org/is/21-038r1/21-038r1.html",
+"implementation":"DGGAL 0.0.7 ISEA3H；非完整OGC API-DGGS服務，不宣稱認證"
+}

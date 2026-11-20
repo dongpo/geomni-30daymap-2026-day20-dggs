@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-20",
+  "actual_browser": "ChatGPT in-app browser",
+  "passed": [
+    "portable HTML rendered",
+    "station selection",
+    "levels16/17/18",
+    "weekday/weekend toggle",
+    "time slider",
+    "playback08to22 and pause",
+    "03:00 missing shown, not zero",
+    "direct map cell click updates both data panels",
+    "raw station toggle",
+    "full extent",
+    "responsive narrow layout",
+    "CSV download with24rows and null03",
+    "export18weekend matches UI2193.6/51.5"
+  ],
+  "limits": [
+    "not full OGC conformance suite",
+    "not historical station relocation verification",
+    "no live feed",
+    "no FPS benchmark"
+  ]
+}

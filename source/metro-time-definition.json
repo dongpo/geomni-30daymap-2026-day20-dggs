@@ -1,0 +1,21 @@
+{
+  "time_basis": "exit hour; X:00–X:59",
+  "primary_evidence": "Taipei City official statistical analysis 114/05 table 4 notes",
+  "source_report": "https://www-ws.gov.taipei/Download.ashx?icon=.pdf&n=MTE0MDXlvp7pm7vkv6Hkv6Hku6TkurrmtYHntZDmnpzmjqLnqbboh7rljJfluILml6XplpPmtLvli5Xkurrlj6PntbHoqIgucGRm&u=LzAwMS9VcGxvYWQvMzY3L3JlbGZpbGUvNDUwMDAvOTQ3ODcyMy9kZTYxNTUyMy00MTIyLTQwNGEtYmE5ZS1lMDNhNWRiNTNiZmUucGRm",
+  "monthly_csv_definition_embedded": false,
+  "limitation": "2026-09 CSV has only 時段 header; interpretation follows official analysis of same source, not new operator correspondence",
+  "holidays": [
+    "2026-09-05",
+    "2026-09-06",
+    "2026-09-12",
+    "2026-09-13",
+    "2026-09-19",
+    "2026-09-20",
+    "2026-09-25",
+    "2026-09-26",
+    "2026-09-27",
+    "2026-09-28"
+  ],
+  "holiday_authority": "https://www.dgpa.gov.tw/information?pid=12685&uid=55",
+  "download_date": "2026-11-12"
+}
